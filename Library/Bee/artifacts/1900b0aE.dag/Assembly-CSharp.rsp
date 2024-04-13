@@ -357,6 +357,7 @@
 -analyzer:"D:/Unity/2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/api/impl/KeyInput.cs"
 "Assets/Scripts/api/impl/Logger.cs"
+"Assets/Scripts/api/impl/Splash.cs"
 "Assets/Scripts/Berengaria.cs"
 "Assets/Scripts/player/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs"
 "Assets/Scripts/shaders/PSXShaderKit/Demo/PSXExample_CameraMovement.cs"

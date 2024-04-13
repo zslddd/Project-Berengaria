@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\shaders\PSXShaderKit\Scripts\PSXPostProcessEffect.cs" />
     <Compile Include="Assets\Scripts\api\impl\KeyInput.cs" />
     <Compile Include="Assets\Scripts\shaders\PSXShaderKit\Demo\SpookyOrbFloat.cs" />
+    <Compile Include="Assets\Scripts\api\impl\Splash.cs" />
     <Compile Include="Assets\Scripts\shaders\PSXShaderKit\Scripts\PSXShaderManager.cs" />
   </ItemGroup>
   <ItemGroup>
