@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zsld\\Project Berengaria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0FF51D-D39C-BD5B-C599-A68E5895D549}|Assembly-CSharp.csproj|c:\\users\\zsld\\project berengaria\\assets\\scripts\\player\\modularfirstpersoncontroller\\firstpersoncontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0FF51D-D39C-BD5B-C599-A68E5895D549}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\modularfirstpersoncontroller\\firstpersoncontroller\\firstpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0FF51D-D39C-BD5B-C599-A68E5895D549}|Assembly-CSharp.csproj|c:\\users\\zsld\\project berengaria\\assets\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0A0FF51D-D39C-BD5B-C599-A68E5895D549}|Assembly-CSharp.csproj|solutionrelative:assets\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0FF51D-D39C-BD5B-C599-A68E5895D549}|Assembly-CSharp.csproj|C:\\Users\\zsld\\Project Berengaria\\assets\\scripts\\berengaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0FF51D-D39C-BD5B-C599-A68E5895D549}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\berengaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0FF51D-D39C-BD5B-C599-A68E5895D549}|Assembly-CSharp.csproj|C:\\Users\\zsld\\Project Berengaria\\assets\\scripts\\api\\impl\\keyinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0FF51D-D39C-BD5B-C599-A68E5895D549}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\impl\\keyinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A0FF51D-D39C-BD5B-C599-A68E5895D549}|Assembly-CSharp.csproj|C:\\Users\\zsld\\Project Berengaria\\assets\\scripts\\api\\impl\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A0FF51D-D39C-BD5B-C599-A68E5895D549}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\api\\impl\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\zsld\\Project Berengaria\\Assets\\README.txt",
+              "RelativeDocumentMoniker": "Assets\\README.txt",
+              "ToolTip": "C:\\Users\\zsld\\Project Berengaria\\Assets\\README.txt",
+              "RelativeToolTip": "Assets\\README.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-13T14:00:43.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\zsld\\Project Berengaria\\Assets\\Scripts\\player\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\player\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
+              "ToolTip": "C:\\Users\\zsld\\Project Berengaria\\Assets\\Scripts\\player\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\player\\ModularFirstPersonController\\FirstPersonController\\FirstPersonController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:48:52.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KeyInput.cs",
+              "DocumentMoniker": "C:\\Users\\zsld\\Project Berengaria\\Assets\\Scripts\\api\\impl\\KeyInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\api\\impl\\KeyInput.cs",
+              "ToolTip": "C:\\Users\\zsld\\Project Berengaria\\Assets\\Scripts\\api\\impl\\KeyInput.cs",
+              "RelativeToolTip": "Assets\\Scripts\\api\\impl\\KeyInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:31:37.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Berengaria.cs",
+              "DocumentMoniker": "C:\\Users\\zsld\\Project Berengaria\\Assets\\Scripts\\Berengaria.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Berengaria.cs",
+              "ToolTip": "C:\\Users\\zsld\\Project Berengaria\\Assets\\Scripts\\Berengaria.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Berengaria.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:47:34.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\zsld\\Project Berengaria\\Assets\\Scripts\\api\\impl\\Logger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\api\\impl\\Logger.cs",
+              "ToolTip": "C:\\Users\\zsld\\Project Berengaria\\Assets\\Scripts\\api\\impl\\Logger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\api\\impl\\Logger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:03:44.33Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

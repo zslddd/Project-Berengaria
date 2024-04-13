@@ -1,0 +1,4 @@
+repository "Project Berengaria@zenvunu@cloud"
+  path "/"
+    br "/main"
+    co "/main"
